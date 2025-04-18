@@ -41,12 +41,7 @@ JavaScript fetches weather data from the OpenWeatherMap API.
 
 The UI dynamically updates with the latest weather information.
 
-📷 Screenshots
-
-![image](https://github.com/user-attachments/assets/7387107a-2108-486e-97b5-fe84776662d4)
-
-
-
+----------------------------------------------------------------
 🙋‍♀️ Author
 Sathwikaa Devarapalli
 Frontend & Cloud Enthusiast | JavaScript Learner
